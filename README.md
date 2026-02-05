@@ -91,8 +91,8 @@ https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
 
 | Model | Accuracy |
 |------|---------|
-| LDA | Reported in execution |
-| QDA | Reported in execution |
+| LDA | 91.66666666666666 |
+| QDA | 99.33333333333333 |
 
 (QDA typically outperforms LDA due to flexible covariance modeling.)
 
